@@ -1,5 +1,5 @@
 {
-  "name": "toyServerDB",
+  "name": "toy_server_db",
   "version": "1.0.0",
   "description": "Let's build a toy server",
   "main": "index.js",
